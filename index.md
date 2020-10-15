@@ -3,7 +3,7 @@ layout: default
 title: INDEX
 ---
 
-# Calibration of partial factor design formats - best practice and challenge
+# Calibration - best practice and challenge
 
 - [About the course](about)
 - [Lecturer](team)
@@ -15,5 +15,9 @@ title: INDEX
 - Lecture Slides
 - Lecture Notes
 - Jupyter Notebook
+
+# Keynote lecture
+
+*Abstact*: 
 
 
