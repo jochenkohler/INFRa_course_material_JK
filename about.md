@@ -1,13 +1,4 @@
 # About
-This course aims at the procurement of basic knowledge in the topics of **uncertainty representation**, **risk** and **safety** and makes students develop a new mind-set expendable for interpreting all kinds of engineering problems.
+Structural design standards are used for the daily design of structures. They comprise of simple rules that represent the current best practice and are generally applied to regular structures. Structural design standards do not account for risk, reliability and uncertainty in an explicit manner. However, the safety concept that is implemented is taking reference to uncertainty and reliability implicitly in terms of partial safety factors and characteristic values.
 
-The course will develop basic knowledge, understanding and practical skills. The course
-content is organized in different thematic main blocks:
-
-* __Optimization and Acceptance.__ Evaluation of fundamental risk based performance criteria. An objective function for engineering structures is developed. It is discussed how human safety can be incorporated. It is seen that the structural failure probability is of particular interest.
-
-* __Methods for structural reliability assessment.__ Different methods for the estimation of the structural failure probability are introduced. The methods facilitate a realistic representation of structural engineering problems, however, we will learn that a proper engineering uncertainty representation is necessary.
-
-* __Basic engineering uncertainty modelling.__ It is demonstrated how uncertainties can be represented for different relevant phenomena. Practical methods are introduced to represent material resistance and time varying loads.
-
-* __Standards and code calibration.__ The methodical basis of structural codes is introduced and the general background of the overall safety concept is examined.
+In this short-course, it is demonstrated that structural design standards correspond to the societal preference for safety and cost effectiveness. A direct correspondence between reliability and the choice of partial safety factors is developed for particular cases. However, it is also shown that the set up of structural design codes is merely a problem of proper generalisation and simplification. 
