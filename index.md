@@ -3,6 +3,8 @@ layout: default
 title: INDEX
 ---
 
+![Image of the beam](https://folk.ntnu.no/jochenk/Figures/simplebeam1.pdf)
+
 # Calibration - best practice and challenge
 
 - [About the course](about)
