@@ -6,7 +6,7 @@ title: INDEX
 # Calibration - best practice and challenge
 
 - [About the course](about)
-- [Lecturer](team)
+- [Lecturer](Team)
 - [Getting started with Python](py_guide)
 
 
