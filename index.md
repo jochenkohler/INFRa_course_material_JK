@@ -3,7 +3,7 @@ layout: default
 title: INDEX
 ---
 
-# INFRASTAR Training School
+![LOGO](https://folk.ntnu.no/jochenk/Figures/simplebeam1.pdf)
 
 # Calibration - best practice and challenge
 
