@@ -4,8 +4,7 @@
 
 If you find mistakes/typos or links that do no longer function, please contact: 
 
-Jorge Mendoza (jorge.m.espinosa@ntnu.no)  
-NTNU - PhD student
+Jochen Köhler (jochen.kohler@ntnu.no)  
 
 ### Install Python 3.7
 
@@ -20,8 +19,8 @@ Once you have a terminal window opened, type the following command (note that th
 ```
 $ python -V
 ```
-If you need to install Python 3.7 in your computer, here are some guides:
-+ [NTNU guide](https://innsida.ntnu.no/wiki/-/wiki/English/Installing+Python#section-Installing+Python-Install+the+latest+version+of+Python) (for Windows, MacOS, and LINUX)
+If you need to install Python 3.7 on your computer, here are some guides:
++ [General guide](https://docs.python-guide.org/starting/installation/) (for Windows, MacOS, and LINUX)
 + [For MacOS](https://opensource.com/article/19/5/python-3-default-mac) (in case you find it better/easier than the NTNU guide)
 
 ### Install Anaconda
@@ -71,7 +70,7 @@ $ conda update -y spyder
 
 Create a conda environment called tktpy: 
 ```
-$ conda create --name tktpy python=3.7
+$ conda create --name infrapy python=3.7
 ```
 
 Once the process is finished, check that it has been successfully created:
@@ -81,17 +80,17 @@ $ conda info --envs
 
 It should show at least an environment called base (with a * next to it) and another called tktpy. The * means that the current environment is base. We need to activate the environment we want to work at. For that, type the following:
 ```
-$ conda activate tktpy
+$ conda activate infrapy
 ```
 
 Next, you need to install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. To download the file, type:
 ```
-$ curl -OL https://raw.githubusercontent.com/Jorgemendozaesp/TKT4196-CourseMaterial/master/tktreq.txt
+$ curl -OL https://raw.githubusercontent.com/jochenkohler/INFRa_course_material_JK/master/infreq.txt
 ```
 
 To install them, type the following command:
 ```
-$ pip install -r tktreq.txt 
+$ pip install -r infreq.txt 
 ```
 
 ### Jupyter
