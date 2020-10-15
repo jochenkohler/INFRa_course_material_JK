@@ -3,8 +3,8 @@ layout: default
 title: INDEX
 ---
 
-![LOGO1](https://folk.ntnu.no/jochenk/Figures/simplebeam1.pdf)
-![LOGO2](/logo_istar.png)
+
+![LOGO2](/logo_istar1.png)
 
 # Calibration - best practice and challenge
 
