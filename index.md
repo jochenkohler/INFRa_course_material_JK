@@ -4,7 +4,7 @@ title: INDEX
 ---
 
 ![LOGO1](https://folk.ntnu.no/jochenk/Figures/simplebeam1.pdf)
-![LOGO2](/istar.png)
+![LOGO2](/logo_istar.png)
 
 # Calibration - best practice and challenge
 
