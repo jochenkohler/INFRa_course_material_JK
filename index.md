@@ -18,6 +18,6 @@ title: INDEX
 
 # Keynote lecture
 
-*Abstact*: 
+*Abstact*: A rational basis for the specification of reliability requirements for design and assessment of structures is introduced and discussed in this lecture. 
 
 
