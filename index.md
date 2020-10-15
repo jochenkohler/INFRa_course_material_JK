@@ -17,7 +17,7 @@ title: INDEX
 
 - Lecture Slides
 - Lecture Notes
-- [Jupyter Notebook](CodeCalibration.ipynb)
+- [Jupyter Notebook](CodeCalibration)
 
 # Keynote lecture
 
