@@ -1,3 +1,4 @@
-Jochen Köhler is a Professor at the Department of Structural Engineering, Faculty of Engineering, at the Norwegian University of Science and Technology (NTNU), Norway. He obtained his PhD degree in Engineering Sciences in 2006 from ETH Zurich, Switzerland.
+## Lecturer
+[Jochen Köhler](https://www.ntnu.no/ansatte/jochen.kohler) is a Professor at the Department of Structural Engineering, Faculty of Engineering, at the Norwegian University of Science and Technology (NTNU), Norway. He obtained his PhD degree in Engineering Sciences in 2006 from ETH Zurich, Switzerland.
 
 His research areas and interests focus on structural reliability, risk based decision making, code calibration, probabilistic material and load modeling with special topics in traffic and offshore engineering. He participates in various national and international research networks: fib (The International Federation for Structural Concrete), EERA (European Energy Research Alliance), COST Action TU 1406, IABSE (The International Association for Bridge and Structural Engineering), etc.
