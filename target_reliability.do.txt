@@ -1,0 +1,44 @@
+## doconce format html lnotes.do.txt --html_style=bootswatch_yeti
+
+## doconce format pdflatex lnotesex3_2020.do.txt  --no_abort
+
+TITLE: The problematic character of reliability targets
+AUTHOR: Jochen Köhler at Institute of Structural Engineering, NTNU 
+DATE: today
+TOC: off
+<linebreak>
+--------------
+
+__Short teaser for the keynote__
+
+
+========= 1. In the Eurocode... =========
+How safe is safe enough in structural engineering? A basic requirement stated in the present version of the Eurocode is that structures shall sustain its anticipated loads with appropriate level of reliability and in an economical way (EN 1990:2002, 2.1(1)).\\
+The term *appropriate level of reliability* is specified further in (EN 1990:2002, 2.2(3)) where its choice is related to relevant factors, including:-
+o the possible cause and /or mode of attaining a limit state;
+o the possible consequences of failure in terms of risk to life, injury, potential economical losses;
+o the expense and procedures necessary to reduce the risk of failure;
+o public aversion to failure.
+
+According to the consequences of failure, structures and components are classified, whereas the reliability levels might be given either for classified structures as a whole, or, for classified components (EN 1990:2002, 2.2(4)).
+Per consequnece class, fixed reliability indices are given. The application in a calibration context, however, is problematic. 
+
+This fixed requirement is also intended to be used in calibration. 
+
+
+========= 2. From a principle perspective... =========
+
+=== Definition of $$\beta_t$$ as a overall prescriptive requirement for structural reliability: ===
+
+Here, a fixed requirement for structural reliability is introduced by, e.g. by the Eurocodes, and this requirement is also used in calibration. Although, this is the most common interpretation of a reliability target, it relies on a misconception and a misinterpretation. Reliability, and similarly failure probability, is falsely considered as a property a structure can display. Reliability and failure probability, however, are only attributes of the (decision) analysis on structures and should only understood as such.
+
+=== Defining $\beta_t$ as reliability requirement derived from optimisation: ===
+
+This can in principle be done following formal (normative) decision theory. The design situations that are jointly considered in the calibration exercise would have been represented in terms of the uncertainty in the limit state and the consequences. However, so far this is practically not done in a strict manner. Instead, design situations that are jointly calibrated are considered as *regular* situations with *moderate* consequences of failure and *medium* relative cost of safety measure, according to the JCSS or ISO2394 arriving on the recommendation for usual design situations which is $\beta = 4.2$ for a one year reference period. This definition of the requirement for reliability based code calibration is also not unproblematic. Design equations as they are presented in the semi-probabilistic design code have evolved over a long period of time and represent the long term accumulation of engineering experience and expertise. This is very good, but during this development uncertainties in the representation of physical phenomena by the corresponding design equations have not been considered explicitly but implicitly by the introduction of conservative assumptions leading to model bias. It is in general very difficult to identify and to quantify this model bias which might be rather different in magnitude for different design equations. The biases, also referred to as *hidden safety*,  directly trigger the corresponding reliability of the design solutions and calibration of semi-probabilistic reliability elements to an absolute reliability requirement might not lead to the envisaged result. 
+
+=== Defining $\beta_t$ as reliability that is represented by the design solution of a generally accepted design code: ===
+
+If it can be stated that the reliability that is attained by implementing a design code is acceptable and also considered as sufficiently economic, the objective of the calibration exercises might reduce to the decrease of variation of reliability level among the design situations that are jointly considered. I.e. representative reliability level of the existing code (given the existing reliability elements) can be considered as the reliability target, and the minimisation of the penalty function is reducing the variability of the reliability. The average reliability level of the existing code (given the existing reliability elements) can be considered as the reliability target. The appeal of this relative calibration is that it is relative insensitive against modelling assumptions in regard to the uncertainty of the representation of variables. The results are also insensitive against model biases as long as it can be assumed that the bias affects all  reliability elements that are subject to the calibration in the same way. However, the explicit assessment of the absolute safety level is not possible when only a relative comparison is done.
+
+=== Reflections ===
+All listed interpretations of targets for reliability based calibration of semi-probabilistic design codes are lacking consistency. The design situations that a regulated by a semi-probabilistic design code are very in-homogeneous in regard to their representation by design equations and the corresponding accounted uncertainties and the inherent model biases. The introduction of an absolute value of a target reliability seems therefore not to be a feasible solution.
