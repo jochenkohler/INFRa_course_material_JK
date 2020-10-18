@@ -2,19 +2,21 @@
 
 ## doconce format pdflatex lnotesex3_2020.do.txt  --no_abort
 
-TITLE: The problematic character of reliability targets
+TITLE: Reliability targets in structural engineering
 AUTHOR: Jochen Köhler at Institute of Structural Engineering, NTNU 
 DATE: today
 TOC: off
 <linebreak>
 --------------
 
+========= The problematic character of reliability targets ========= 
 __Short teaser for the keynote__
 
 
-========= 1. In the Eurocode... =========
-How safe is safe enough in structural engineering? A basic requirement stated in the present version of the Eurocode is that structures shall sustain its anticipated loads with appropriate level of reliability and in an economical way (EN 1990:2002, 2.1(1)).\\
-The term *appropriate level of reliability* is specified further in (EN 1990:2002, 2.2(3)) where its choice is related to relevant factors, including:-
+======= 1. In the Eurocode... =======
+How safe is safe enough in structural engineering? A basic requirement stated in the present version of the Eurocode is that structures shall sustain its anticipated loads with appropriate level of reliability and in an economical way (EN 1990:2002, 2.1(1)).
+
+The term *appropriate level of reliability* is specified further in (EN 1990:2002, 2.2(3)) where its choice is related to relevant factors, including:
 o the possible cause and /or mode of attaining a limit state;
 o the possible consequences of failure in terms of risk to life, injury, potential economical losses;
 o the expense and procedures necessary to reduce the risk of failure;
@@ -23,12 +25,11 @@ o public aversion to failure.
 According to the consequences of failure, structures and components are classified, whereas the reliability levels might be given either for classified structures as a whole, or, for classified components (EN 1990:2002, 2.2(4)).
 Per consequnece class, fixed reliability indices are given. The application in a calibration context, however, is problematic. 
 
-This fixed requirement is also intended to be used in calibration. 
 
 
-========= 2. From a principle perspective... =========
+======= 2. From a principle perspective... =======
 
-=== Definition of $$\beta_t$$ as a overall prescriptive requirement for structural reliability: ===
+=== Definition of $\beta_t$ as a overall prescriptive requirement for structural reliability: ===
 
 Here, a fixed requirement for structural reliability is introduced by, e.g. by the Eurocodes, and this requirement is also used in calibration. Although, this is the most common interpretation of a reliability target, it relies on a misconception and a misinterpretation. Reliability, and similarly failure probability, is falsely considered as a property a structure can display. Reliability and failure probability, however, are only attributes of the (decision) analysis on structures and should only understood as such.
 
