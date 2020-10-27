@@ -12,6 +12,8 @@ title: INDEX
 - [Lecturer](Team)
 - [Getting started with Python](py_guide)
 
+- Alternatively you can access the exercise without any configuration or installation by following this link: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jochenkohler/INFRa_course_material_JK.git/main?filepath=CodeCalibration.ipynb)
+
 
 # Course Material
 
