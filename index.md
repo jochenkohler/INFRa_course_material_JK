@@ -25,6 +25,6 @@ title: INDEX
 
 A rational basis for the specification of reliability requirements for design and assessment of structures is introduced and discussed in this lecture. It is thereby focused on the challenges related to the practical application of reliability requirements and aspects of standardization.
 
-- [Keynote Slides](2010_INFRASTAR_presentation_JK_rev0.pdf)
+- [Keynote Slides](2010_INFRASTAR_presentation_JK_rev1.pdf)
 - [Background document](Reliability_Requirements-5.pdf) for further reading and reflection
 
