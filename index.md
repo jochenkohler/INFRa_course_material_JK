@@ -15,7 +15,7 @@ title: INDEX
 
 # Course Material
 
-- Lecture Slides
+- [Lecture Slides](INFRASTAR_Lecture_2020_.pdf)
 - [Lecture Notes](INFRASTAR_CompendiumKohler-2.pdf)
 - [Jupyter Notebook](CodeCalibration.ipynb)
 
